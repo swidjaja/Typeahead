@@ -1,0 +1,12 @@
+.typeahead__suggestion {
+  &--active {
+    background-color: gray;
+  }
+}
+
+.typeahead__suggestions {
+  width: 356px;
+  margin-top: 5px;
+  border: 1px solid black;
+  padding: 5px 3px;
+}
